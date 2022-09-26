@@ -2,7 +2,7 @@
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
-  "main": "server/server.js",
+  "main": "",
   "scripts": {
     "start": "npm run install && npm run develop",
     "start:dev": "node server/server.js",
