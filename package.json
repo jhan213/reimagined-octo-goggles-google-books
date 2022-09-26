@@ -18,5 +18,8 @@
   },
   "engines": {
     "node": "^14"
+  },
+  "dependencies": {
+    "graphql": "^16.6.0"
   }
 }
