@@ -61,5 +61,3 @@ mutation removeBook($bookId: String!) {
     }
   }
 `;
-
-// update mutations

@@ -5,8 +5,6 @@ import SignUpForm from './SignupForm';
 import LoginForm from './LoginForm';
 
 import Auth from '../utils/auth';
-// NavBar will include logo, the homepage link, and sign up/login button
-// Will resemble the MERN Google Books Search Engine
 
 const AppNavbar = () => {
   // set modal display state
@@ -17,7 +15,7 @@ const AppNavbar = () => {
       <Navbar bg='dark' variant='dark' expand='lg'>
         <Container fluid>
           <Navbar.Brand as={Link} to='/'>
-            Social Pop
+            Google Books Search
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='navbar' />
           <Navbar.Collapse id='navbar'>
