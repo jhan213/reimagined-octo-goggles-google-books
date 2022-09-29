@@ -18,3 +18,7 @@ export const GET_ME = gql`
     }
   }
 `;
+
+// update queries
+// get user
+// get posts

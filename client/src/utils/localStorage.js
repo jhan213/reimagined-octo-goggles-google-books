@@ -28,3 +28,5 @@ export const removeBookId = (bookId) => {
 
   return true;
 };
+
+// no use for a local storage
