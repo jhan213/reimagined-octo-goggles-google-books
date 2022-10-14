@@ -5,4 +5,10 @@ The Google Books search engine allows users to search through millions of books 
 
 Link: https://paperback-search-engine-9.herokuapp.com/
 
-![](readme_preview.png)
+## User Story
+AS AN avid reader,<br>
+I WANT to search for my favorite books,<br>
+AND save them to my secure account.
+
+# Screenshot
+![](./readme_preview.png)
