@@ -1,9 +1,8 @@
 # Google Books Search Engine
 
-Deployed Heroku Link:
-https://paperback-search-engine-9.herokuapp.com/
-
 ## Description
-The application deploys a book search engine that allows users to search for books stored in the Google Books API and also create an account and login to save and edit their favorite books. It uses the Google Books API and uses React as the front-end, an Apollo/Node.js/Express server as the back-end, and a MongoDD database for storage. The application is also deployed at the above link.
+The Google Books search engine allows users to search through millions of books and save any of their liking to their account. The application was created with React, NodeJS, MongoDB, and GraphQL. 
 
-![Preview](readme_preview.png)
+Link: https://paperback-search-engine-9.herokuapp.com/
+
+![](readme_preview.png)
